@@ -6,6 +6,7 @@ import Link from 'next/link';
 export default function detailpage1() {
   return (
     <div>
+      <div>Hello</div>
     <div className="row" style={{ backgroundColor: "#DCDCDC" }}>
      <div className="col-md-3 ms-5 " style={{ backgroundColor: "white" }}>
        <div className="mt-5"></div>
